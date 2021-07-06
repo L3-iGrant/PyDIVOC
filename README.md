@@ -1,5 +1,7 @@
 # PyDIVOC
 
+[![PyPI version](https://badge.fury.io/py/PyDIVOC.svg)](https://badge.fury.io/py/PyDIVOC)
+
 ## Introduction
 
 Author: [George J Padayatti](mailto:george%40igrant.io)

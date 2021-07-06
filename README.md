@@ -1,6 +1,7 @@
 # PyDIVOC
 
-[![PyPI version](https://badge.fury.io/py/PyDIVOC.svg)](https://badge.fury.io/py/PyDIVOC) [![Total alerts](https://img.shields.io/lgtm/alerts/g/decentralised-dataexchange/PyDIVOC.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/decentralised-dataexchange/PyDIVOC/alerts/)
+[![PyPI version](https://badge.fury.io/py/PyDIVOC.svg)](https://badge.fury.io/py/PyDIVOC) [![Total alerts](https://img.shields.io/lgtm/alerts/g/decentralised-dataexchange/PyDIVOC.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/decentralised-dataexchange/PyDIVOC/alerts/) [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/decentralised-dataexchange/PyDIVOC.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/decentralised-dataexchange/PyDIVOC/context:python)
+[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/decentralised-dataexchange/PyDIVOC.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/decentralised-dataexchange/PyDIVOC/context:python)
 
 ## Introduction
 
